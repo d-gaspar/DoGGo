@@ -39,5 +39,5 @@ int fileExists(char *input){
 }
 
 void main(){
-  read("input/dataframe.tsv");
+  read("test/colors.tsv");
 }
